@@ -1,4 +1,4 @@
-Algoritma Breadh-First Search menggunakan library pygame
+## Algoritma Breadh-First Search menggunakan library pygame
 
 Breath-First Search (BFS) adalah sebuah algoritma pencarian graf yang melintasi simpul-simpul secara melebar, mulai dari simpul awal, dan menelusuri semua simpul yang terhubung ke simpul awal tersebut, lalu menelusuri simpul-simpul tersebut secara sistematis dan berurutan. Algoritma BFS berfungsi dengan mengunjungi setiap simpul dalam graf tepat satu kali.
 
